@@ -47,4 +47,4 @@ ls|head -2 > newfile
 cat newfile
 
 echo "#########################################################################################"
-echo "Hey $1 i hope you enjoyed your stay here"
+echo "Hey $name i hope you enjoyed your stay here"

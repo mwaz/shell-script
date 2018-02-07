@@ -32,7 +32,8 @@ The script then copies a document sample.py from the root directory to the newly
  
 ## Exiting the Script 
 On exiting the program, the script displays the following message using the arguemnts that we used while running the script
-```Hey {YourName} i hope you enjoyed your stay here
+``` 
+Hey {YourName} i hope you enjoyed your stay here
 ```
 
 
